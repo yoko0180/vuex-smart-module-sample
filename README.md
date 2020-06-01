@@ -1,5 +1,5 @@
 # vuex-smart-module-sample
-
+![demo](./images/demo.gif)
 ## Project setup
 ```
 yarn install
@@ -14,3 +14,5 @@ yarn run serve
 ```
 yarn run build
 ```
+
+[vuex-smart-module](https://github.com/ktsn/vuex-smart-module)
